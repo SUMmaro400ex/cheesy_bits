@@ -16,6 +16,7 @@
 
 body{
   font-family: 'Indie Flower', cursive;
+  background-color: #4DD0E1;
 }
 
 #cheesy-nav{
@@ -30,4 +31,8 @@ body{
 
 #top{
   text-align: center;
+}
+
+#card-logo{
+  color: black;
 }
