@@ -13,11 +13,21 @@
  *= require_tree .
  *= require_self
  */
+
+body{
+  font-family: 'Indie Flower', cursive;
+}
+
 #cheesy-nav{
   background-color: #00E676;
 }
+
 #logo-top{
   margin-top: 1vh;
   margin-left: 1vw;
   height: 6vh;
+}
+
+#top{
+  text-align: center;
 }
